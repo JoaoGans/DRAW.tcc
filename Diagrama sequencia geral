@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T19:37:45.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L97HR6tyGrCYecu9sVhw" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T19:39:08.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YcVZI31o6DJFWpOzJsUi" version="24.6.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1032" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="250" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="140" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ytinBUqDLqm1EGRjqwcP-1" value="Ongs e Lares temporarios" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="100" height="300" as="geometry" />
@@ -75,6 +75,15 @@
         </mxCell>
         <mxCell id="ytinBUqDLqm1EGRjqwcP-16" value="Preencher dados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ytinBUqDLqm1EGRjqwcP-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ytinBUqDLqm1EGRjqwcP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="270" as="sourcePoint" />
+            <mxPoint x="425" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytinBUqDLqm1EGRjqwcP-18" value="Confirmar coleta do animal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
