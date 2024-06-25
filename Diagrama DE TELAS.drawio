@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T18:19:31.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LkOLkkpKKUvIBRz9Bkfp" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T18:21:06.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sYhAk2eoG4S5Tlvczxlx" version="24.6.3" type="github">
   <diagram name="Página-1" id="UobBjaJwMlICEHa-Haaa">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vT9PVhpSTflnILdodTu9-1" value="TELA PRINCIPAL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vT9PVhpSTflnILdodTu9-1" value="TELA PRINCIPAL" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-1" value="TELA DE ONGS E LARES TEMPORARIOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-2" value="TELA DE CLÍNICAS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-3" value="TELA DE LOGIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
