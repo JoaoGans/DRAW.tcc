@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T18:32:49.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sSJOFch8lXjd8qm-vI9B" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T18:48:17.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WV9HL4a0QPS4ag0DuNCX" version="24.6.3" type="github">
   <diagram name="Página-1" id="UobBjaJwMlICEHa-Haaa">
-    <mxGraphModel dx="859" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2180" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="400" y="250" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-1" value="TELA DE ONGS E LARES TEMPORARIOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="140" height="80" as="geometry" />
+          <mxGeometry x="325" y="100" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-2" value="TELA DE CLÍNICAS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="140" height="80" as="geometry" />
+          <mxGeometry x="495" y="100" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-3" value="TELA DE LOGIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="140" height="80" as="geometry" />
+          <mxGeometry x="660" y="100" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-4" value="TELA DE ANIMAIS ABANDONADOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="140" height="80" as="geometry" />
+          <mxGeometry x="160" y="100" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="vT9PVhpSTflnILdodTu9-1" target="Ei8btUgGEkhQR9ocS008-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,28 +53,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-11" value="Contato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="365" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-12" value="Endereço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="365" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-13" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="335" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-14" value="Contato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="535" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-15" value="Endereço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="535" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-16" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="505" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-17" value="Animais" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-22" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="170" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-23" value="Usuario" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="50" width="60" height="30" as="geometry" />
@@ -90,6 +90,24 @@
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-27" value="Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-28" value="TELA CHECKLIST" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Ei8btUgGEkhQR9ocS008-4" target="Ei8btUgGEkhQR9ocS008-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-30" value="Camera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-31" value="Localização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-32" value="Situação do animal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
