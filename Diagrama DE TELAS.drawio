@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T18:26:28.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uZh8_-OIAhYJyC1vak6l" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T18:29:45.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KLpxf6Qzn5Y0cxAbUuQX" version="24.6.3" type="github">
   <diagram name="Página-1" id="UobBjaJwMlICEHa-Haaa">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -44,13 +44,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-9" value="TELA DE CADASTRO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="100" width="140" height="80" as="geometry" />
+          <mxGeometry x="830" y="100" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Ei8btUgGEkhQR9ocS008-3" target="Ei8btUgGEkhQR9ocS008-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="70" as="sourcePoint" />
             <mxPoint x="480" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-11" value="Contato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-12" value="Endereço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-13" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-14" value="Contato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-15" value="Endereço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-16" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-17" value="Animais" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-22" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
