@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T18:29:45.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KLpxf6Qzn5Y0cxAbUuQX" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T18:32:49.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sSJOFch8lXjd8qm-vI9B" version="24.6.3" type="github">
   <diagram name="Página-1" id="UobBjaJwMlICEHa-Haaa">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,21 @@
         </mxCell>
         <mxCell id="Ei8btUgGEkhQR9ocS008-22" value="Nome da organização" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-23" value="Usuario" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-24" value="Senha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-25" value="Usuario" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-26" value="Senha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei8btUgGEkhQR9ocS008-27" value="Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
