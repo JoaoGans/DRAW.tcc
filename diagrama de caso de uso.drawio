@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Página-1" id="UZJUa2alxurfmSEgPwZ5">
-    <mxGraphModel dx="698" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="843" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="570" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mdzmZsSMi9n9c2dEPzLq-2" value="Registrar animal abandonado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mdzmZsSMi9n9c2dEPzLq-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-1" target="mdzmZsSMi9n9c2dEPzLq-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -19,14 +19,50 @@
         <mxCell id="mdzmZsSMi9n9c2dEPzLq-4" value="Adotante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mdzmZsSMi9n9c2dEPzLq-5" value="Resgatar animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-5" value="Resgatar Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mdzmZsSMi9n9c2dEPzLq-6" value="Favoritar animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-6" value="Favoritar Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mdzmZsSMi9n9c2dEPzLq-7" value="Compartilhar link Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="970" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-8" value="Consultar Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-9" value="Adotar Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-5" target="mdzmZsSMi9n9c2dEPzLq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="390" as="sourcePoint" />
+            <mxPoint x="1100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-7" target="mdzmZsSMi9n9c2dEPzLq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="390" as="sourcePoint" />
+            <mxPoint x="1100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-9" target="mdzmZsSMi9n9c2dEPzLq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="390" as="sourcePoint" />
+            <mxPoint x="1100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-6" target="mdzmZsSMi9n9c2dEPzLq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="390" as="sourcePoint" />
+            <mxPoint x="1100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdzmZsSMi9n9c2dEPzLq-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mdzmZsSMi9n9c2dEPzLq-8" target="mdzmZsSMi9n9c2dEPzLq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="390" as="sourcePoint" />
+            <mxPoint x="1100" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
