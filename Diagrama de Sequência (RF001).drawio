@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="880" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="450" y="220" as="targetPoint" />
@@ -25,10 +25,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-5" value="solicita registrar um animal" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-5" value="solicita registrar um animal" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="450" y="220" as="targetPoint" />
@@ -37,31 +37,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-7" value="exibe um formulário" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-7" value="exibe um formulário" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="150" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="219" as="sourcePoint" />
             <mxPoint x="260" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="265" y="260" as="sourcePoint" />
             <mxPoint x="95" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-11" value="envia o formulário" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-11" value="envia o formulário" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-13" value="valida as informações" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-13" value="valida as informações" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="230" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-14" value="salva o registro no banco de dados" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-14" value="salva o registro no banco de dados" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="270" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S7hFe5nnL8_tBguRpUYP-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="S7hFe5nnL8_tBguRpUYP-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="300" as="sourcePoint" />
             <mxPoint x="95" y="300" as="targetPoint" />
