@@ -76,6 +76,57 @@
             <mxPoint x="449" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-22" value="(1,1)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="146" width="53" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-23" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="148" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-24" value="(1,1)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="146" width="53" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-25" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="148" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-26" value="(1,1)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="77" width="53" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-27" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-16" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-28" value="(1,1)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="75" width="53" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-29" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-16" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Tf2gWwa-TeqLUiWzJEqZ-2" target="Tf2gWwa-TeqLUiWzJEqZ-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="166" as="sourcePoint" />
+            <mxPoint x="334.5" y="65.12760416666663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Tf2gWwa-TeqLUiWzJEqZ-36" target="Tf2gWwa-TeqLUiWzJEqZ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405.5" y="65.49739583333337" as="sourcePoint" />
+            <mxPoint x="350" y="76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Tf2gWwa-TeqLUiWzJEqZ-5" target="Tf2gWwa-TeqLUiWzJEqZ-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="124" as="sourcePoint" />
+            <mxPoint x="370" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;Favorita Animal&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="34" width="103" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-37" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="79" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-38" value="(0,N)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="75" width="55" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
