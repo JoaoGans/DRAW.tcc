@@ -18,12 +18,12 @@
             <mxPoint x="399" y="266" as="sourcePoint" />
             <mxPoint x="179.6713615023475" y="301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="340" />
+              <mxPoint x="175" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-9" value="Doacao Realizada" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="318.5" y="393" width="130" height="70" as="geometry" />
+        <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-9" value="Realizar doação" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="301" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Tf2gWwa-TeqLUiWzJEqZ-11" value="Cria Favorito" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="497" y="-50" width="130" height="70" as="geometry" />
