@@ -16,7 +16,7 @@
         <mxCell id="XyS3htgc_D6Mv0wNhRds-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="XyS3htgc_D6Mv0wNhRds-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="XyS3htgc_D6Mv0wNhRds-5" value="Acessa registros de adoção" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="XyS3htgc_D6Mv0wNhRds-5" value="Acessa dashboard de adoção" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="122" y="107" width="176" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XyS3htgc_D6Mv0wNhRds-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" target="XyS3htgc_D6Mv0wNhRds-1" edge="1">
@@ -70,8 +70,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XyS3htgc_D6Mv0wNhRds-17" value="Exibe dashboard para usuário autorizado" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="72" y="241" width="247" height="36" as="geometry" />
+        <mxCell id="XyS3htgc_D6Mv0wNhRds-17" value="Exibe dashboard dashboard com total de doações e resgates" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="73" y="228" width="247" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XyS3htgc_D6Mv0wNhRds-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="XyS3htgc_D6Mv0wNhRds-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
