@@ -70,6 +70,24 @@
             <mxPoint x="92" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QwlnXtcP6A20Kq8J5e35-8" value="Clica no botão de resgate" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="234" width="165" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QwlnXtcP6A20Kq8J5e35-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="92" y="256" as="sourcePoint" />
+            <mxPoint x="358" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwlnXtcP6A20Kq8J5e35-10" value="Confirma resgate e informa sucesso" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="264" width="221" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QwlnXtcP6A20Kq8J5e35-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="286" as="sourcePoint" />
+            <mxPoint x="91" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
