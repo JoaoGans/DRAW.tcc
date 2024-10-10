@@ -1,74 +1,98 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="880" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TgN__DmX92jdRZPK4-3S-1" value="Usuário" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="100" height="320" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-1" value="Usuário" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="339" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TgN__DmX92jdRZPK4-3S-1">
-          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="TgN__DmX92jdRZPK4-3S-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="269" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-3" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="100" height="320" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-3" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="100" height="342" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TgN__DmX92jdRZPK4-3S-3">
-          <mxGeometry x="45" y="80" width="10" height="240" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="TgN__DmX92jdRZPK4-3S-3" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="TgN__DmX92jdRZPK4-3S-4">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="TgN__DmX92jdRZPK4-3S-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="95" y="130" as="sourcePoint" />
             <mxPoint x="325" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-6" value=" solicita finalizar uma doação" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="100" width="180" height="40" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-6" value="Acessa tela home e localiza animal" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="100" width="203" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="TgN__DmX92jdRZPK4-3S-4">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="TgN__DmX92jdRZPK4-3S-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="170" as="sourcePoint" />
             <mxPoint x="95" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-8" value="exibe as doações registradas" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-8" value="Exibe lista de animais" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="210" as="sourcePoint" />
             <mxPoint x="359.5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-10" value=" seleciona uma doação para finalizar" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-10" value=" Seleciona animal para detalhes" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="250" as="sourcePoint" />
             <mxPoint x="95" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-12" value="confirma a finalização" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-12" value="Exibe detalhes do animal" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="220" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="TgN__DmX92jdRZPK4-3S-3">
+        <mxCell id="TgN__DmX92jdRZPK4-3S-14" value="Solicita finalizar doação" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="256" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgN__DmX92jdRZPK4-3S-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="290" as="sourcePoint" />
-            <mxPoint x="90" y="290" as="targetPoint" />
+            <mxPoint x="359.5" y="312" as="sourcePoint" />
+            <mxPoint x="89" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-14" value="atualiza o status da doação no banco de dados" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="290" height="40" as="geometry" />
+        <mxCell id="TgN__DmX92jdRZPK4-3S-18" value="Solicita confirmação para finalizar" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="286" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="TgN__DmX92jdRZPK4-3S-1">
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-1" value="ANIMAL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H6Y2OoQNEFdDWvYsKMwl-1">
+          <mxGeometry x="45" y="80" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="330" as="sourcePoint" />
-            <mxPoint x="100" y="330" as="targetPoint" />
+            <mxPoint x="95" y="278" as="sourcePoint" />
+            <mxPoint x="355" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgN__DmX92jdRZPK4-3S-18" value="confirma a finalização da doação ao usuário" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="270" height="40" as="geometry" />
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-5" value="Atualiza status do animal para &quot;adotado&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="329.5" as="sourcePoint" />
+            <mxPoint x="599.5" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-8" value="Finalização concluída" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H6Y2OoQNEFdDWvYsKMwl-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="TgN__DmX92jdRZPK4-3S-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="90" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
