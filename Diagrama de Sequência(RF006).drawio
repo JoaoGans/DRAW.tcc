@@ -22,8 +22,8 @@
             <mxPoint x="270" y="129.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-2" value="seleciona um animal" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="110" width="140" height="40" as="geometry" />
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-2" value="Acessa lista de animais disponíveis" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="108" width="198" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7rsz2xNEGjx-F1zoUsi2-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,8 +31,8 @@
             <mxPoint x="90" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-4" value="exibe os detalhes do animal" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="140" width="180" height="40" as="geometry" />
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-4" value="Exibe lista de animais disponíveis" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="140" width="198" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7rsz2xNEGjx-F1zoUsi2-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,10 +40,10 @@
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-6" value="confirma a intenção de adoção" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="170" width="200" height="40" as="geometry" />
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-6" value="Seleciona animal para adoção" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="170" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="CtxKFPPK9J6K7CozORF_-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="220" as="sourcePoint" />
             <mxPoint x="90" y="220" as="targetPoint" />
@@ -55,26 +55,44 @@
             <mxPoint x="90" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="sourcePoint" />
-            <mxPoint x="90" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-12" value="Exibe detalhes do animal e botão para adoção" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="210" width="212" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-11" value="registra a adoção" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="200" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-12" value="atualiza o status do animal&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="230" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7rsz2xNEGjx-F1zoUsi2-13" value="confirma a adoção ao adotante" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="260" width="200" height="40" as="geometry" />
+        <mxCell id="7rsz2xNEGjx-F1zoUsi2-13" value="Confirma adoção" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="254" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CtxKFPPK9J6K7CozORF_-1" value="Animal" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="425" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="488" y="45" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="CtxKFPPK9J6K7CozORF_-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CtxKFPPK9J6K7CozORF_-1">
           <mxGeometry x="45" y="80" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-3" value="Busca detalhes do animal" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="321" y="192" width="165" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="278" as="sourcePoint" />
+            <mxPoint x="90" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-7" value="Atualiza status do animal para &#39;adotado&#39;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="317" y="261" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="289" as="sourcePoint" />
+            <mxPoint x="538" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-9" value="Confirma adoção e registra a adoção&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="98" y="287" width="230" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="CtxKFPPK9J6K7CozORF_-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307.25" y="314" as="sourcePoint" />
+            <mxPoint x="92.75" y="314" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
