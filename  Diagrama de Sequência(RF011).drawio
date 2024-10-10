@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XyS3htgc_D6Mv0wNhRds-17" value="Exibe dashboard dashboard com total de doações e resgates" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="XyS3htgc_D6Mv0wNhRds-17" value="Exibe dashboard com total de doações e resgates" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="73" y="228" width="247" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XyS3htgc_D6Mv0wNhRds-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="XyS3htgc_D6Mv0wNhRds-1">
