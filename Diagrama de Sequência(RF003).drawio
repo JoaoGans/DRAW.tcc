@@ -43,37 +43,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CPR8kBzrSgz2_kOxYMQ9-10" value="&lt;div&gt;preenche e envia o formulário com as informações necessárias (espécie, raça, idade).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CPR8kBzrSgz2_kOxYMQ9-10" value="&lt;div&gt;Envia os dados necessários (espécie, raça, idade).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="112" y="187" width="302" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SfwCl55DtzwpYPR1N8dc-2" value="envia o foto,&#xa;nome, categoria pode ser cachorro ou gato, raça, idade, sexo, peso, endereço ao sistema" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="153" y="373" width="238" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="SfwCl55DtzwpYPR1N8dc-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="462" as="sourcePoint" />
-            <mxPoint x="377" y="462" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="189" y="462" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SfwCl55DtzwpYPR1N8dc-4" value="valida as informações fornecidas" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="116" y="274" width="203" height="36" as="geometry" />
+          <mxGeometry x="116" y="232" width="203" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SfwCl55DtzwpYPR1N8dc-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444" y="297" as="sourcePoint" />
-            <mxPoint x="91" y="297" as="targetPoint" />
+            <mxPoint x="446" y="256" as="sourcePoint" />
+            <mxPoint x="93" y="256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SfwCl55DtzwpYPR1N8dc-6" value="registra a doação banco de dados" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="116" y="305" width="209" height="36" as="geometry" />
+          <mxGeometry x="116" y="268" width="209" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SfwCl55DtzwpYPR1N8dc-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="332" as="sourcePoint" />
-            <mxPoint x="92" y="332" as="targetPoint" />
+            <mxPoint x="444" y="295" as="sourcePoint" />
+            <mxPoint x="91" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
