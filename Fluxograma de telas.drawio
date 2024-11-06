@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gA5XVCeRnem1YT8hVIMz-1" value="TELA DE LOGIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-3" value="TELA DE ADOÇÃO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-4" value="TELA DE RESGATE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-5" value="TELA DE FAVORITOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-6" value="TELA DE CHATS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-7" value="PERFIL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-3" target="gA5XVCeRnem1YT8hVIMz-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,16 +44,22 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="270" as="sourcePoint" />
             <mxPoint x="600" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-3" target="gA5XVCeRnem1YT8hVIMz-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="270" as="sourcePoint" />
             <mxPoint x="600" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-24" value="CHAT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-20" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-6" target="gA5XVCeRnem1YT8hVIMz-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,18 +68,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-26" value="DETALHES DO ANIMAL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-26" target="gA5XVCeRnem1YT8hVIMz-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="270" as="sourcePoint" />
             <mxPoint x="600" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gA5XVCeRnem1YT8hVIMz-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-3" target="gA5XVCeRnem1YT8hVIMz-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="270" as="sourcePoint" />
-            <mxPoint x="550" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="50" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-7" target="gA5XVCeRnem1YT8hVIMz-1">
@@ -92,24 +95,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="270" as="sourcePoint" />
             <mxPoint x="550" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="50" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-32" value="FORMULARIO DE ADOÇÃO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-7" target="gA5XVCeRnem1YT8hVIMz-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="250" as="sourcePoint" />
             <mxPoint x="490" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-34" value="FORMULARIO DE ANIMAL ABANDONADO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-7" target="gA5XVCeRnem1YT8hVIMz-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="250" as="sourcePoint" />
             <mxPoint x="490" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
