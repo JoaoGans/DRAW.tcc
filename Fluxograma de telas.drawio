@@ -72,28 +72,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-32" value="FORMULARIO DE ADOÇÃO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="122" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gA5XVCeRnem1YT8hVIMz-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="gA5XVCeRnem1YT8hVIMz-7" target="gA5XVCeRnem1YT8hVIMz-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="252" as="sourcePoint" />
-            <mxPoint x="213" y="202" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="463" y="222" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1134" y="167" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-34" value="FORMULARIO DE ANIMAL ABANDONADO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="242" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gA5XVCeRnem1YT8hVIMz-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="gA5XVCeRnem1YT8hVIMz-7" target="gA5XVCeRnem1YT8hVIMz-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="252" as="sourcePoint" />
-            <mxPoint x="213" y="202" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="463" y="222" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="994" y="167" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gA5XVCeRnem1YT8hVIMz-38" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="gA5XVCeRnem1YT8hVIMz-3" target="gA5XVCeRnem1YT8hVIMz-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,6 +183,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="746" y="34" as="sourcePoint" />
             <mxPoint x="796" y="-16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJeOnNx3MZ2r32lLNY44-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="gA5XVCeRnem1YT8hVIMz-32" target="EJeOnNx3MZ2r32lLNY44-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809" y="71" as="sourcePoint" />
+            <mxPoint x="859" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJeOnNx3MZ2r32lLNY44-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="EJeOnNx3MZ2r32lLNY44-22" target="gA5XVCeRnem1YT8hVIMz-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809" y="71" as="sourcePoint" />
+            <mxPoint x="859" y="21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
